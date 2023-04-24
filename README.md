@@ -1,5 +1,5 @@
 # JDA-Economy
-A test project for Economy System
+A test project for Economy System.
 
 ## Requirements
 The following things are required to use JDACommands:
@@ -19,7 +19,7 @@ Add the following to your `pom.xml`:
 <dependencies>
 	<dependency>
 	    <groupId>com.github.ErikDevelopment</groupId>
-	    <artifactId>JDA-Commands</artifactId>
+	    <artifactId>JDA-Economy</artifactId>
 	    <version>x.y.z</version>
 	</dependency>
 </dependencies>
@@ -35,6 +35,6 @@ allprojects {
 }
   
 dependencies {
-	        implementation 'com.github.ErikDevelopment:JDA-Commands:x.y.z'
+	        implementation 'com.github.ErikDevelopment:JDA-Economy:x.y.z'
 }
 ```

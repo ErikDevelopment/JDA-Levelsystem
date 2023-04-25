@@ -1,4 +1,4 @@
-# JDA-Economy
+# JDA-Levelsystem
 A test project for Economy System.
 
 ## Requirements
@@ -19,7 +19,7 @@ Add the following to your `pom.xml`:
 <dependencies>
 	<dependency>
 	    <groupId>com.github.ErikDevelopment</groupId>
-	    <artifactId>JDA-Economy</artifactId>
+	    <artifactId>JDA-Levelsystem</artifactId>
 	    <version>x.y.z</version>
 	</dependency>
 </dependencies>
@@ -35,6 +35,6 @@ allprojects {
 }
   
 dependencies {
-	        implementation 'com.github.ErikDevelopment:JDA-Economy:x.y.z'
+	        implementation 'com.github.ErikDevelopment:JDA-Levelsystem:x.y.z'
 }
 ```
